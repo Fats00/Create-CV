@@ -1,16 +1,16 @@
 <h1>Create CV</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+This Repository consists of a guideline I filled in and it is in a form of a word document. I received the guideline from my lecture and there is a screenshot that will serve as evidence for the online programme I did for the creation of my CV.
 <br />
 
 
 <h2>Reflection: Star Technique</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-- <b>Diskpart</b>
-- <b>Diskpart</b>
+- <b>S – Situation:</b> As part of my career development coursework, I was given a detailed CV guideline by my lecturer and attended a CV creation programme designed to help students develop professional resumes.
+- <b>T – Task:</b> My task was to apply the guidelines and lessons from the programme to create a polished CV that reflects my academic background, skills, and career goals.
+- <b>A – Action:</b> I carefully studied the CV template and tips provided by my lecturer, which included formatting advice, how to write an effective personal profile, and how to present my education and experience. During the CV creation programme, I received additional tips on tailoring CVs for different industries. I used this information to structure my CV clearly, highlight relevant skills, and ensure the document was error-free. I also asked for peer and facilitator feedback before finalizing it..</b>
+- <b>R – Result:</b> The final CV I created was professional, well-organized, and tailored to potential job opportunities in my field. I now understand how to adjust my CV for different roles and feel more confident applying for internships or part-time positions. The process helped me see how much value I bring to potential employers.</b>
 
 <h2>Screenshots:</h2>
 

@@ -1,7 +1,7 @@
 <h1>Create CV</h1>
 
 <h2>Description</h2>
-This Repository consists of a guideline I filled in and it is in a form of a word document. I received the guideline from my lecture and there is a screenshot that will serve as evidence for the online programme I did for the creation of my CV.
+This Repository consists of a guideline I filled in and it is in a form of a word document and my personal experience using the "STAR" technique. I received the guideline from my lecture and there is a screenshot that will serve as evidence for the online programme I did for the creation of my CV.
 <br />
 
 
